@@ -2,7 +2,19 @@ Freshchat iOS SDK - Powered by Freshdesk
 
 Documentation   : https://support.freshchat.com
 Support Email   : support@freshchat.com
-Version         : 2.9.0
+Version         : 3.2.0
+
+Ver 3.2.0 
+__________________________
+Enhancement:
+- Introducing changes in MUV calculation to take care of cases where customer's SDK implementation is not optimised. This would bring down the unique visitors count.
+
+Ver 3.1.0 
+__________________________
+Feature :
+- Add user events from your app to Freshchat Timeline to give your agents context on user's journey and problems.
+Enhancement :
+- New device models added to track user devices.
 
 Ver 2.9.0 
 __________________________
