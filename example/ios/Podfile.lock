@@ -6,13 +6,13 @@ PODS:
     - Flutter
 
 DEPENDENCIES:
-  - Flutter (from `.symlinks/flutter/ios`)
+  - Flutter (from `Flutter`)
   - flutter_freshchat (from `.symlinks/plugins/flutter_freshchat/ios`)
   - path_provider (from `.symlinks/plugins/path_provider/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
-    :path: ".symlinks/flutter/ios"
+    :path: Flutter
   flutter_freshchat:
     :path: ".symlinks/plugins/flutter_freshchat/ios"
   path_provider:
@@ -20,9 +20,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  flutter_freshchat: 6c8631baa242ca51e03fdb86c48db031429527d4
+  flutter_freshchat: 8665279b02ddbb2253fb30a0e039ff511aff66ac
   path_provider: f96fff6166a8867510d2c25fdcc346327cc4b259
 
-PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
+PODFILE CHECKSUM: cdef4f1b2ff590ae01a5b7e5c0c070e80e36891e
 
 COCOAPODS: 1.8.4
